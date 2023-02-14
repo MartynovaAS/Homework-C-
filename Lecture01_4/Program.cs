@@ -5,10 +5,10 @@
 
 int p, n; 
 
-p = 0; 
+p = 1; 
 n = 8;
 
-    while (p < n)
+    while (p <= n)
     {
         if (p % 2 > 0)
         {
@@ -16,7 +16,7 @@ n = 8;
         }
         else
         {
-            Console.WriteLine(p + 2);
+            Console.WriteLine(p);
         }
         p = p + 1;
     }
