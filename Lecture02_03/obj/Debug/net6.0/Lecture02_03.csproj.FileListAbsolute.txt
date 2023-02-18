@@ -1,0 +1,15 @@
+C:\Users\Master\Desktop\Exemples\Lecture02_03\obj\Debug\net6.0\Lecture02_03.csproj.AssemblyReference.cache
+C:\Users\Master\Desktop\Exemples\Lecture02_03\obj\Debug\net6.0\Lecture02_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Desktop\Exemples\Lecture02_03\obj\Debug\net6.0\Lecture02_03.AssemblyInfoInputs.cache
+C:\Users\Master\Desktop\Exemples\Lecture02_03\obj\Debug\net6.0\Lecture02_03.AssemblyInfo.cs
+C:\Users\Master\Desktop\Exemples\Lecture02_03\obj\Debug\net6.0\Lecture02_03.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\Exemples\Lecture02_03\bin\Debug\net6.0\Lecture02_03.exe
+C:\Users\Master\Desktop\Exemples\Lecture02_03\bin\Debug\net6.0\Lecture02_03.deps.json
+C:\Users\Master\Desktop\Exemples\Lecture02_03\bin\Debug\net6.0\Lecture02_03.runtimeconfig.json
+C:\Users\Master\Desktop\Exemples\Lecture02_03\bin\Debug\net6.0\Lecture02_03.dll
+C:\Users\Master\Desktop\Exemples\Lecture02_03\bin\Debug\net6.0\Lecture02_03.pdb
+C:\Users\Master\Desktop\Exemples\Lecture02_03\obj\Debug\net6.0\Lecture02_03.dll
+C:\Users\Master\Desktop\Exemples\Lecture02_03\obj\Debug\net6.0\refint\Lecture02_03.dll
+C:\Users\Master\Desktop\Exemples\Lecture02_03\obj\Debug\net6.0\Lecture02_03.pdb
+C:\Users\Master\Desktop\Exemples\Lecture02_03\obj\Debug\net6.0\Lecture02_03.genruntimeconfig.cache
+C:\Users\Master\Desktop\Exemples\Lecture02_03\obj\Debug\net6.0\ref\Lecture02_03.dll
